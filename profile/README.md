@@ -1,4 +1,4 @@
-# CRC 1597 SmallData! 
+# CRC 1597 Small Data! 
 
 Welcome to the SmallData Github, where we showcase projects that have been made in our organisation. For more information, please visit our website. 
 
