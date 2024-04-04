@@ -1,6 +1,13 @@
 # CRC 1597 Small Data! 
 
-Welcome to the SmallData Github, where we showcase projects that have been made in our organisation. For more information, please visit our website. 
+Welcome to the SmallData Github, where we showcase projects that have been made in our organisation. In SmallData, we address data analysis and modeling in small data settings, i.e., when there is only little information in a dataset at hand, due to a small number of observations that carry relevant information, relative to the complexity of novel patterns to be uncovered or the level of heterogeneity across observations.
+
+We focus on
+* Similarity for pulling in additional data of the same type (Project Area A),
+* Transfer for transferring additional information to the dataset at hand, such as from data of different type (Project Area B),
+* Uncertainty for quantifying and reducing uncertainty in particular in similarity and transfer (Project Area C).
+
+This is enabled by a joint methods framework, with a focus on combining knowledge-driven and data-driven modeling. For more information, please visit our website. 
 
 ## Public Repository Disclosure 
 
