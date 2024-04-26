@@ -7,7 +7,7 @@ We focus on
 * Transfer for transferring additional information to the dataset at hand, such as from data of different type (Project Area B),
 * Uncertainty for quantifying and reducing uncertainty in particular in similarity and transfer (Project Area C).
 
-This is enabled by a joint methods framework, with a focus on combining knowledge-driven and data-driven modeling. For more information, please visit our website. 
+This is enabled by a joint methods framework, with a focus on combining knowledge-driven and data-driven modeling. For more information, please visit our website. Subscribe to our event mailing list by following the instructions [here](https://www.smalldata-initiative.de/2024/04/subscribe-to-our-mailing-list/).
 
 ## Public Repository Disclosure 
 
