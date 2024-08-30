@@ -1,4 +1,4 @@
-# CRC 1597 'Small Data'! 
+# CRC 1597 Small Data! 
 
 Welcome to the _SmallData_ Github, where we showcase projects that have been made in our collaborative research centre. In _SmallData_, we address data analysis and modeling in small data settings, i.e., when there is only little information in a dataset at hand, due to a small number of observations that carry relevant information, relative to the complexity of novel patterns to be uncovered or the level of heterogeneity across observations.
 
